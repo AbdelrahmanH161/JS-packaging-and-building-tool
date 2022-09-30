@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form input{
+    padding: 10px;
+    border: solid 1px gray;
+    border-radius: 10px;
+}
+.form p {
+    width: 25px;
+    border: solid 1px gray;
+    border-radius: 10px;
+    background-color: gray;
+    padding: 10px;
+}
+.btn{
+    background-color: blue;
+    color: aliceblue;
+    border: solid 1px rgb(4, 0, 255);
+    border-radius: 10px;
+    margin-left: 10px;
+    outline: none;
+}
+input{
+    padding: 10px;
+    border: solid 1px gray;
+    border-radius: 10px;
+}
